@@ -3,3 +3,5 @@
 .pyc/
 .pyd/
 __pycache__/
+linpeas.sh
+pspy64
